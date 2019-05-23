@@ -1,0 +1,9 @@
+.movies{
+    display: flex;
+    border: 1px solid #000;
+    margin: 5%;
+}
+.movie-img{
+    width: 150px;
+    height: 100%;
+}
