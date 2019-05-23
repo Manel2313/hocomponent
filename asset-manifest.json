@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hocomponent/static/css/main.4565f4c3.chunk.css",
+    "main.js": "/hocomponent/static/js/main.520e2765.chunk.js",
+    "main.js.map": "/hocomponent/static/js/main.520e2765.chunk.js.map",
+    "runtime~main.js": "/hocomponent/static/js/runtime~main.f146c2d3.js",
+    "runtime~main.js.map": "/hocomponent/static/js/runtime~main.f146c2d3.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/hocomponent/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/hocomponent/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/hocomponent/index.html",
+    "precache-manifest.a0bd6abbf360c59aaafbdca07995a590.js": "/hocomponent/precache-manifest.a0bd6abbf360c59aaafbdca07995a590.js",
+    "service-worker.js": "/hocomponent/service-worker.js",
+    "static/css/main.4565f4c3.chunk.css.map": "/hocomponent/static/css/main.4565f4c3.chunk.css.map"
+  }
+}
